@@ -7,8 +7,8 @@ This project displays list of movies through a Web Page and also plays a youtube
 -You may install python from [here](https://www.python.org/downloads/)
 
 Usage
--Close the repository on your local system
--Open a terminal and execute the following code
+- Close the repository on your local system
+- Open a terminal and execute the following code
 ```
 cd <Cloned Repository>
 python python entertainment_center.py
