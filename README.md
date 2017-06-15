@@ -1,16 +1,17 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
 This project displays list of movies through a Web Page and also plays a youtube trialer for each movie
+when you will run the code it will generate a .html file in your local direcotory from where your code is running.
 
 ## Requirements
--Python needs to be installed
--You may install python from [here](https://www.python.org/downloads/)
+- Python needs to be installed
+- You may install python from [here](https://www.python.org/downloads/)
 
 Usage
-- Close the repository on your local system
+- Clone the repository on your local system
 - Open a terminal and execute the following code
 ```
 cd <Cloned Repository>
-python python entertainment_center.py
+python entertainment_center.py
 ```
 ## License
