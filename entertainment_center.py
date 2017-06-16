@@ -30,4 +30,4 @@ lunchbox = media.Movie(
 movies = [dangal, rustom, lunchbox]
 
 # Calling the function which will creat a Web page and display the movies
-fresh_tomatoes.open_movies_page
+fresh_tomatoes.open_movies_page(movies)
